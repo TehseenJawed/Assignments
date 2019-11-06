@@ -1,0 +1,17 @@
+# import libraries
+#declare a variable for image directories
+# find  number of files
+#create numpy array with (no of files, 200,200,3)
+#resize image
+#convert and save to numpy array
+#folder name must be photos.
+
+#create a function for each task with required checks like try, except of if os.path.exist
+#etc. (expect declaration)
+#create main() function to call these functions
+# Run the main function with following commands
+#remember function will create first
+# the main function will return numpy array
+# we will call main function in our testing and validate np.array
+if __name == __main__:
+    __main__()
